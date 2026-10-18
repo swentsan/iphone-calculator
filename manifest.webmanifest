@@ -1,0 +1,12 @@
+{
+  "name": "iPhone 計算機",
+  "short_name": "計算機",
+  "description": "一台簡潔、可離線使用的 iPhone 風格計算機。",
+  "start_url": "/iphone-calculator/?source=homescreen",
+  "scope": "/iphone-calculator/",
+  "display": "standalone",
+  "background_color": "#090b10",
+  "theme_color": "#090b10",
+  "orientation": "portrait",
+  "icons": []
+}
